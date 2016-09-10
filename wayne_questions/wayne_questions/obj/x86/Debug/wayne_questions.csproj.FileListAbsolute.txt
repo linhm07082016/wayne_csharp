@@ -1,0 +1,8 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\wayne_questions\bin\Debug\wayne_questions.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\wayne_questions\bin\Debug\wayne_questions.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\wayne_questions\obj\x86\Debug\wayne_questions.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\wayne_questions\obj\x86\Debug\wayne_questions.pdb
+C:\temp\wayne_questions\wayne_questions\obj\x86\Debug\wayne_questions.exe
+C:\temp\wayne_questions\wayne_questions\obj\x86\Debug\wayne_questions.pdb
+C:\temp\wayne_questions\wayne_questions\bin\Debug\wayne_questions.exe
+C:\temp\wayne_questions\wayne_questions\bin\Debug\wayne_questions.pdb
